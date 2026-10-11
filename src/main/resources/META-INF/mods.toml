@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="mantiskaiju"
+version="1.0.0"
+displayName="Mantis Kaiju"
+authors="y2kblazed"
+description='''
+A colossal End City mantis kaiju hides inside a shulker at the top of every End City.
+'''
+
+[[dependencies.mantiskaiju]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.mantiskaiju]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.mantiskaiju]]
+    modId="curios"
+    mandatory=true
+    versionRange="[5.4,)"
+    ordering="AFTER"
+    side="BOTH"

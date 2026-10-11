@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    { "rolls": 1, "entries": [ { "type": "minecraft:item", "name": "mantiskaiju:mantis_head" } ] },
+    { "rolls": 1, "entries": [ { "type": "minecraft:item", "name": "mantiskaiju:mantis_claws" } ] }
+  ]
+}

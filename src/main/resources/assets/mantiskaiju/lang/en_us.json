@@ -1,0 +1,9 @@
+{
+  "entity.mantiskaiju.mantis_kaiju": "Purpur Mantis Kaiju",
+  "item.mantiskaiju.mantis_head": "Mantis Kaiju Head",
+  "item.mantiskaiju.mantis_head.desc": "Crouch while worn: outlines hostile mobs and ores within 20 blocks",
+  "item.mantiskaiju.mantis_claws": "Mantis Kaiju Claws",
+  "item.mantiskaiju.mantis_claws.desc": "Gloves slot: 15 block reach, 2x attack speed",
+  "item.mantiskaiju.mantis_kaiju_spawn_egg": "Mantis Kaiju Spawn Egg",
+  "curios.identifier.gloves": "Gloves"
+}
